@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="FineTech logo" width="180" />
+</p>
+
 # Golden Compass — Interface Prototype
 
 A mobile-first fintech interface prototype exploring a digital investment experience, with a dark visual theme, portfolio-oriented screens, and compact navigation.
